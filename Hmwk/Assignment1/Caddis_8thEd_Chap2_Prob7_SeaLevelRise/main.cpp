@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
     int nYrBch;//Number of years before your home is beach front property
     float elevRiv=860;//Elevation of Riverside in feet according to wikipedia
     
-//Process values -> Map inputs to Output
+    //Process values -> Map inputs to Output
     rise1=rate*nYear1;
     rise2=rate*nYear2;
     rise3=rate*nYear3;
